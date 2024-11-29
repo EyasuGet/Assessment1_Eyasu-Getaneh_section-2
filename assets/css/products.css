@@ -96,4 +96,11 @@ footer{
 li:hover{
     background-color: #d9eed9;
 }
-
+footer{
+    min-height: 10vh;
+    background-color: rgb(150, 157, 230);
+    color:#124314;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
